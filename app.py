@@ -99,12 +99,4 @@ if uploaded_file is not None:
         for idx in I[0]:
             st.write(chunks[idx])
             st.write("--------------------------------------------------") 
-requirement.txt
-streamlit
-pypdf
-sentence-transformers
-faiss-cpu
-numpy
-torch
-transformers
-scikit-learn
+
